@@ -1,2 +1,2 @@
 # tp10weatherapp
-This is a weather app for the project TP10
+This is a simple weather app for the TP10

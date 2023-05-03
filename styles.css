@@ -1,1 +1,8 @@
 /* CSS for TP10 */
+body {
+    text-align: center;
+}
+
+#weatherDisplay {
+    font-size: 50px;
+}
