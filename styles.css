@@ -1,8 +1,61 @@
 /* CSS for TP10 */
+
+/* body*/
 body {
+    font-family: arial;
     text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    margin: 50px 200px 75px;
+    background-color: #4d94ff;
 }
 
+/* header 1*/
+h1 {
+    font-size: 60px;
+    color: white;
+    background-color: #4d94ff;
+}
+
+/* the entire display of the weather*/
 #weatherDisplay {
     font-size: 50px;
+    background-color: #e6e6e6;
+}
+
+/* the display of the location*/
+#location {
+    border-style: solid;
+    border-width: 1px;
+}
+
+/* the display of the temperature in fahrenheit*/
+#tempf {
+    border-style: solid;
+    border-width: 1px;
+}
+
+/* the display of the wind direction*/
+#winddir {
+    border-style: solid;
+    border-width: 1px;
+}
+
+/* the display of the wind speed*/
+#windspeed {
+    border-style: solid;
+    border-width: 1px;
+}
+
+/* the display of the cloud cover*/
+#cloudcover {
+    border-style: solid;
+    border-width: 1px;
+}
+
+/* the display of the humidity*/
+#humidity {
+    border-style: solid;
+    border-width: 1px;
 }
